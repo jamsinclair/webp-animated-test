@@ -1,0 +1,17 @@
+{
+  "name": "webp-animated-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@jsquash/webp": "1.5.0-animated-webp-support-beta.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}
